@@ -24,9 +24,7 @@
   <string name="aperture">Blende</string>
   <string name="app_details">App Details:</string>
   <string name="auto">Auto</string>
-  <string name="bg_replacement_message">"Gerät auf ebenem Untergrund platzieren und
-  
-  einen Moment aus dem Bild gehen"</string>
+  <string name="bg_replacement_message">"Gerät auf ebenem Untergrund platzieren und einen Moment aus dem Bild gehen"</string>
   <string name="camera_disabled">Kamera wurde durch Sicherheitseinstellungen deaktiviert.</string>
   <string name="camera_error_title">Kamera-Fehler</string>
   <string name="camera_label">Kamera</string>
