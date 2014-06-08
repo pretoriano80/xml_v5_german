@@ -97,7 +97,7 @@
   <string name="resource_comment_title">Bewertungen: %1$s</string>
   <string name="resource_comment_upload_data_invalid">Leider ist der abgeschickte Kommentar ungültig</string>
   <string name="resource_comment_upload_failed">Kommentar konnte nicht gesendet werden</string>
-  <string name="resource_comment_upload_hint">Comments will be displayed after being reviewed.</string>
+  <string name="resource_comment_upload_hint">Kommentare werden nach entsprechender Überprüfung angezeigt.</string>
   <string name="resource_comment_upload_not_bought">Du musst das Thema erst anwenden, bevor du Kommentare verfassen kannst.</string>
   <string name="resource_comment_upload_not_logined">Bitte melde dich zuerst an!</string>
   <string name="resource_comment_upload_success">Kommentar wurde abgeschickt! Dieser wird angezeigt, sobald er überprüft wurde</string>
