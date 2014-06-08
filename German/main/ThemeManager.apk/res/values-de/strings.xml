@@ -63,7 +63,7 @@
   <string name="resource_alarm_default">Wecker</string>
   <string name="resource_app_name">Quellen-Browser</string>
   <string name="resource_apply">Anwenden</string>
-  <string name="resource_apply_trial">jetzt ausprobieren</string>
+  <string name="resource_apply_trial">Testen</string>
   <string name="resource_buy">Kaufen</string>
   <string name="resource_can_not_selected">%1$s kann nicht ausgewählt werden!</string>
   <string name="resource_category">Kategorie</string>
@@ -73,9 +73,9 @@
   <string name="resource_comment_4_star">4 Sterne</string>
   <string name="resource_comment_5_star">5 Sterne</string>
   <string name="resource_comment_all_comments">Alle Bewertungen</string>
-  <string name="resource_comment_average_score">Average rating</string>
+  <string name="resource_comment_average_score">Durchschnitt</string>
   <string name="resource_comment_bad_comments">Negative</string>
-  <string name="resource_comment_current_version">Current version</string>
+  <string name="resource_comment_current_version">jetzige Version</string>
   <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Kommentar hinzufügen</string>
   <string name="resource_comment_edit_comment_waiting">Es wird überprüft, ob du schon geantwortet hast</string>
@@ -84,7 +84,7 @@
   <string name="resource_comment_entry_tips">Erfahrungsberichte ansehen</string>
   <string name="resource_comment_expand_full_text">Text ausklappen</string>
   <string name="resource_comment_footer">Leere Kommentare werden nicht angezeigt.</string>
-  <string name="resource_comment_good_comments">positive Bewertung</string>
+  <string name="resource_comment_good_comments">Positive</string>
   <string name="resource_comment_invalid">Berühre die Sterne, um eine Bewertung abzugeben</string>
   <string name="resource_comment_loading_list">Lade Bewertungen</string>
   <string name="resource_comment_name_default">Benutzer %1$s</string>
