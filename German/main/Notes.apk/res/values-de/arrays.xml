@@ -3,20 +3,20 @@
     <string-array name="contact_entries">
         <item>Name</item>
         <item>Nickname</item>
-        <item>Phone</item>
+        <item>Telefon</item>
         <item>E-mail</item>
         <item>Organization</item>
         <item>IM</item>
-        <item>SIP Phone</item>
-        <item>Birthday</item>
-        <item>Website</item>
-        <item>Address</item>
-        <item>Note</item>
+        <item>SIP Telefon</item>
+        <item>Geburtstage</item>
+        <item>Webseite</item>
+        <item>Addresse</item>
+        <item>Notiz</item>
     </string-array>
     <string-array name="font_size_names">
-        <item>Small</item>
+        <item>Klein</item>
         <item>Default</item>
-        <item>Large</item>
+        <item>Groß</item>
         <item>Super</item>
     </string-array>
 </resources>
