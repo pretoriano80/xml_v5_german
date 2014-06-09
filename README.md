@@ -11,12 +11,7 @@ extras/*.*
 main/Antispam.apk
 main/Backup.apk
 
-Wer mithelfen will:
+Wer mithelfen will fndet die Infos dazu im Wiki.
 
-1. Dieses Repo forken
-2. Übersetzen
-3. Wenn möglich pro übersetzte apk einen pull request erstellen
-
-Danke
 
 Für  weitere Infos bzw Fragen  PM an mich(bitti09) im xiaomi.eu Forum
