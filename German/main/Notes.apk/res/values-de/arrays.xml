@@ -3,7 +3,7 @@
     <string-array name="contact_entries">
         <item>Name</item>
         <item>Nickname</item>
-        <item>Telephon</item>
+        <item>Telefon</item>
         <item>E-mail</item>
         <item>Organization</item>
         <item>IM</item>
