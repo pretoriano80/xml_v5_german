@@ -674,7 +674,7 @@ CC: %4$s
   <string name="system_account_create_failed">"Konto-Erstellung fehlgeschlagen. Erneut versuchen."</string>
   <string name="system_folders_sent_dlg">"'Gesendete Objekte'-Ordner auswählen"</string>
   <string name="system_folders_sent_summary">"Wählen Sie Ihren 'Gesendete Objekte'-Ordner"</string>
-  <string name="system_folders_sent_title">'Gesendete Objekte'-Ordner</string>
+  <string name="system_folders_sent_title">"'Gesendete Objekte'-Ordner"</string>
   <string name="system_folders_title">System Ordner</string>
   <string name="system_folders_trash_dlg">"Wählen Sie Ihren Papierkorb-Ordner des Servers"</string>
   <string name="system_folders_trash_summary">"Wählen Sie Ihren Papierkorb-Ordner des Servers"</string>
