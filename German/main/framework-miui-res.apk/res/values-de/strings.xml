@@ -389,7 +389,6 @@
     <string name="no_sim">Keine SIM-Karte gefunden.</string>
     <string name="open_wifi_settings">WLAN Einstellungen öffnen</string>
     <string name="partys_day" />
-    <string name="passwordIncorrect">@android:string/passwordIncorrect</string>
     <string name="payphone">Telefonzelle</string>
     <string name="peace_day" />
     <string name="perm_auto_backup">Auto Backup</string>
