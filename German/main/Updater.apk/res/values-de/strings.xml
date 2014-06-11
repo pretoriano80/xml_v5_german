@@ -15,7 +15,7 @@
     <string name="apply_update_fail">Update fehlgeschlagen</string>
     <string name="apply_update_timer">Das Gerät wird in %d Sekunden neugestartet</string>
     <string name="apply_upload_info_message">Um das Telefon neu zu starten und das Update zu installieren drücken Sie auf \"Ausführen\".</string>
-    <string name="apply_upload_info_message_manually">Nach dem Neustart können sie in das Recovery gehen und das Update (%s) manuell installieren. Wenn Sie Ihre Daten sichern möchten, machen sie es bevor sie das Update installieren.</string>
+    <string name="apply_upload_info_message_manually">Nach dem Neustart können Sie in das Recovery gehen und das Update (%s) manuell installieren. Wenn Sie Ihre Daten sichern möchten, machen Sie es bevor Sie das Update installieren.</string>
     <string name="applying_rom_message">Installiere Update...</string>
     <string name="applying_update">Aktualisiere %s</string>
     <string name="best_update">Bestes Update</string>
@@ -26,7 +26,7 @@
     <string name="check_update_when_wifi_available">Nur über WLAN suchen</string>
     <string name="checking_for_updates">Suche nach Updates...</string>
     <string name="choose_recommend">Benutzermeinung</string>
-    <string name="comment_invalid">Bewerten sie dieses Update (Sterne berühren)</string>
+    <string name="comment_invalid">Bewerten Sie dieses Update (Sterne berühren)</string>
     <string name="comment_publish">Senden</string>
     <string name="comment_sending">Sende...</string>
     <string name="comment_upload_failed">Kommentar konnte nicht gesendet werden</string>
@@ -149,7 +149,7 @@
     <string name="update_comment_hint" />
     <string name="update_comment_title">Kommentar</string>
     <string name="update_feedback">Update Umfrage</string>
-    <string name="update_feedback_expired">"Schade das Sie die Update Umfrage verpasst haben. Bitte nehmen sie nächsten Dienstag teil"</string>
+    <string name="update_feedback_expired">"Schade das Sie die Update Umfrage verpasst haben. Bitte nehmen Sie nächsten Dienstag teil"</string>
     <string name="update_feel">Wie zufrieden sind Sie?</string>
     <string name="update_general">Gut</string>
     <string name="update_happy">Sehr gut</string>

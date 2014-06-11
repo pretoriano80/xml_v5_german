@@ -10,15 +10,15 @@
   <string name="auto_startup_dialog_msg">"MIUI wird der Anwendung erlauben, ohne Bestätigung zu starten. Dies kann zu erhöhtem Energie- und/oder Datenverbauch führen. Autostart gestatten?"</string>
   <string name="caller_app">Anrufer: %1$s</string>
   <string name="cancel">Abbrechen</string>
-  <string name="dlg_app_replacement_statement">"Die Anwendung, die du installierst, wird eine andere Anwendung ersetzen. Alle vorherigen Benutzerdaten bleiben gespeichert."</string>
-  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) wird die aktuelle Version ersetzen (%3$s). Benutzerdaten bleiben erhalten. Bist du sicher, dass du installieren willst?"</string>
+  <string name="dlg_app_replacement_statement">"Die Anwendung, die Sie installieren, wird eine andere Anwendung ersetzen. Alle vorherigen Benutzerdaten bleiben gespeichert."</string>
+  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) wird die aktuelle Version ersetzen (%3$s). Benutzerdaten bleiben erhalten. Sind Sie sicher, dass Sie installieren wollen?"</string>
   <string name="dlg_app_replacement_title">Anwendung ersetzen</string>
   <string name="dlg_ok">OK</string>
-  <string name="dlg_sys_app_replacement_statement">"Dies ist eine System-Anwendung. Möchtest du sie immer noch ersetzen? Alle vorherigen Benutzerdaten bleiben gespeichert."</string>
+  <string name="dlg_sys_app_replacement_statement">"Dies ist eine System-Anwendung. Möchten Sie diese immernoch ersetzen? Alle vorherigen Benutzerdaten bleiben gespeichert."</string>
   <string name="done">Fertig</string>
   <string name="high_risk_perms">Riskante Rechte</string>
   <string name="install">Installieren</string>
-  <string name="install_confirm_question">Möchtest du diese Anwendung installieren?</string>
+  <string name="install_confirm_question">Möchten Sie diese Anwendung installieren?</string>
   <string name="install_done">Anwendung installiert</string>
   <string name="install_failed">Anwendung nicht installiert</string>
   <string name="install_failed_cpu_abi_incompatible">"Diese Anwendung ist nicht mit der CPU deines Telefons kompatibel."</string>
@@ -60,7 +60,7 @@
   <string name="uninstall_activity_text">%1$s ist ein Teil der folgenden Anwendung:</string>
   <string name="uninstall_application_text">Diese Anwendung wird deinstalliert.</string>
   <string name="uninstall_application_title">Anwendung deinstallieren</string>
-  <string name="uninstall_confirm_question">Möchtest du diese Anwendung deinstallieren?</string>
+  <string name="uninstall_confirm_question">Möchten Sie diese Anwendung deinstallieren?</string>
   <string name="uninstall_done">Deinstallation abgeschlossen</string>
   <string name="uninstall_failed">Deinstallation nicht erfolgreich</string>
   <string name="uninstall_failed_device_policy_manager">Kann nicht deinstallieren: Paket ist ein aktiver Geräte-Administrator.</string>
@@ -70,11 +70,11 @@
   <string name="uninstall_update_title">Update deinstallieren</string>
   <string name="uninstalling">Deinstallation...</string>
   <string name="unknown">Unbekannt</string>
-  <string name="unknown_apps_dlg_text">"Aus Sicherheitsgründen wurde dein Telefon so eingestellt, dass Anwendungen von unsicheren Quellen nicht installiert werden können. Solltest du Anwendungen von fremden Quellen installieren, so trägst du alle Risiken bei Datenverlust oder Beschädigung. Du kannst dies auch unter Einstellungen-&gt;Sicherheit-&gt;Unbekannte Quellen ändern."</string>
+  <string name="unknown_apps_dlg_text">"Aus Sicherheitsgründen wurde Ihr Telefon so eingestellt, dass Anwendungen von unsicheren Quellen nicht installiert werden können. Sollten Sie Anwendungen von fremden Quellen installieren, so tragen Sie alle Risiken bei Datenverlust oder Beschädigung. Sie können dies auch unter Einstellungen-&gt;Sicherheit-&gt;Unbekannte Quellen ändern."</string>
   <string name="unknown_apps_dlg_title">Installation gesperrt</string>
   <string name="unknown_installer">Unbekannter Installer</string>
   <string name="virus_scan_clear">Löschen</string>
   <string name="virus_scan_install">" "&lt;u&gt;&amp;#32487;&amp;#32493;&amp;#23433;&amp;#35013;&lt;/u&gt;" "</string>
   <string name="virus_scan_is_risk">Diese App stellt ein Risiko dar!</string>
-  <string name="virus_scan_is_virus">Diese App enthält einen Virus, entfernen sie diese bitte sofort!</string>
+  <string name="virus_scan_is_virus">Diese App enthält einen Virus, entfernen Sie diese bitte sofort!</string>
 </resources>

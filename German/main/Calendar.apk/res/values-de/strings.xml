@@ -163,7 +163,7 @@
   <string name="movable_list_header_label">Einführung</string>
   <string name="new_event_dialog_label">Neuer Termin</string>
   <string name="new_event_dialog_option">Neuer Termin</string>
-  <string name="no_calendars_found">Damit du einen Termin hinzufügen kannst, musst du mindestens einen Google Kalender-Konto zu deinem Gerät hinzufügen und sichtbar machen. Zum Hinzufügen eines Kontos tippe auf \"Konto hinzufügen\". Falls du gerade ein Konto hinzugefügt hast, warte bis die Synchronisierung abgeschlossen ist und versuchen es dann erneut. du kannst auch auf \"Abbrechen\" tippen und dich vergewissern, dass mindestens ein Kalender sichtbar ist.</string>
+  <string name="no_calendars_found">Damit Sie einen Termin hinzufügen können, müssen Sie mindestens ein Google Kalender-Konto zu Ihrem Gerät hinzufügen und sichtbar machen. Zum Hinzufügen eines Kontos auf \"Konto hinzufügen\" tippen. Falls Sie gerade ein Konto hinzugefügt haben, warten Sie bis die Synchronisierung abgeschlossen ist und versuchen es dann erneut. Sie können auch auf \"Abbrechen\" tippen und sich vergewissern, dass mindestens ein Kalender sichtbar ist.</string>
   <string name="no_local_calendar">Kein lokaler Kalender :)</string>
   <string name="no_network">Kein Netzwerk verfügbar. Versuchen Sie eine Verbindung zum Netzwerk herzustellen :)</string>
   <string name="no_syncable_calendars">Keine Kalender</string>

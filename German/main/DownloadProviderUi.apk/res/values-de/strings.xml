@@ -13,7 +13,7 @@
   <string name="delete_the_downloaded_file">Die heruntergeladenen Dateien löschen.</string>
   <string name="deselect_all">Nichts auswählen</string>
   <string name="dialog_cannot_resume">Download unterbrochen, kann nicht wieder aufgenommen werden.</string>
-  <string name="dialog_failed_body">Möchtest du versuchen, die Datei später erneut herunterzuladen, oder möchtest du diese aus der Warteschlange entfernen?</string>
+  <string name="dialog_failed_body">Möchten Sie versuchen, die Datei später erneut herunterzuladen, oder möchten Sie diese aus der Warteschlange entfernen?</string>
   <string name="dialog_file_already_exists">Herunterladen nicht möglich, die Zieldatei ist bereits vorhanden.</string>
   <string name="dialog_file_missing_body">Die heruntergeladene Datei kann nicht gefunden werden.</string>
   <string name="dialog_file_missing_title">Öffnen der Datei fehlgeschlagen</string>

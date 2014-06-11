@@ -95,7 +95,7 @@
   <string name="account_setup_failed_auth_required">Authentifizierungsmethoden werden nicht vom Server unterstützt.</string>
   <string name="account_setup_failed_certificate_inaccessible">Zertifikat ist ungültig oder nicht aufrufbar.</string>
   <string name="account_setup_failed_certificate_required">Client-Zertifikat ist erforderlich. Verbindung zu einem Server mit Client-Zertifikat herstellen?</string>
-  <string name="account_setup_failed_check_credentials_message">Der Server hat einen Fehler zurückgegeben. Bitte überprüfe deinen Benutzernamen und dein Passwort und versuche es erneut.</string>
+  <string name="account_setup_failed_check_credentials_message">Der Server hat einen Fehler zurückgegeben. Bitte überprüfen Sie Ihren Benutzernamen und Passwort und versuchen Sie es erneut.</string>
   <string name="account_setup_failed_dlg_auth_message">Benutzername oder Passwort falsch</string>
   <string name="account_setup_failed_dlg_auth_message_fmt">"Benutzername/Password falsch
 (%s)"</string>
@@ -110,7 +110,7 @@
   <string name="account_setup_failed_ioerror">Verbindung zum Server kann nicht geöffnet werden.</string>
   <string name="account_setup_failed_protocol_unsupported">Sie haben eine falsche Serveradresse eingegeben oder der Server erfordert eine Protokollversion, die zurzeit nicht unterstützt wird.</string>
   <string name="account_setup_failed_security">Verbindung zu Server kann aufgrund eines Sicherheitsfehlers nicht hergestellt werden.</string>
-  <string name="account_setup_failed_security_policies_unsupported">Dieser Server erfordert Sicherheitsfunktionen, die dein Android-Gerät nicht unterstützt, darunter: %s.</string>
+  <string name="account_setup_failed_security_policies_unsupported">Dieser Server erfordert Sicherheitsfunktionen, die Ihr Android-Gerät nicht unterstützt, darunter: %s.</string>
   <string name="account_setup_failed_tls_required">TLS erforderlich aber nicht von Server unterstützt</string>
   <string name="account_setup_incoming_delete_policy_delete_label">Wenn ich sie aus dem Posteingang lösche</string>
   <string name="account_setup_incoming_delete_policy_label">E-Mail von Server löschen</string>
@@ -130,10 +130,10 @@
   <string name="account_setup_incoming_title">Kontoeinrichtung</string>
   <string name="account_setup_incoming_username_label">Benutzername</string>
   <string name="account_setup_names_account_name_label">Konto benennen (optional)</string>
-  <string name="account_setup_names_headline">Dein Konto ist jetzt eingerichtet.</string>
+  <string name="account_setup_names_headline">Ihr Konto ist jetzt eingerichtet.</string>
   <string name="account_setup_names_title">Kontoeinrichtung</string>
   <string name="account_setup_names_user_name_empty_error">Dieses Feld darf nicht leer sein.</string>
-  <string name="account_setup_names_user_name_label">Dein Name (wird bei ausgehenden E-Mails angezeigt)</string>
+  <string name="account_setup_names_user_name_label">Ihr Name (wird bei ausgehenden E-Mails angezeigt)</string>
   <string name="account_setup_need_password_verification">Your account has been opened secondary password authentication, authentication is required</string>
   <string name="account_setup_options_background_attachments_label">Anhänge bei WLAN-Verbindung automatisch herunterladen</string>
   <string name="account_setup_options_headline">Konto-Optionen</string>

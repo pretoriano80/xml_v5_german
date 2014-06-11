@@ -13,7 +13,7 @@
   <string name="alert_message_edit_anyway">Die Notiz enthält nicht unterstützte Inhalte, Bearbeitung könnte zu Datenverlust führen.</string>
   <string name="alert_title_delete">Ausgewählte Notizen löschen</string>
   <string name="alert_title_discard">Änderungen verwerfen?</string>
-  <string name="alert_title_edit_anyway">Bearbeiten dieser Notiz könnte zu Datenverlust führen, bist du sicher?</string>
+  <string name="alert_title_edit_anyway">Bearbeiten dieser Notiz könnte zu Datenverlust führen, sind Sie sicher?</string>
   <string name="app_name">Notizen</string>
   <string name="app_widget">Notizen</string>
   <string name="attachment_camera">Kamera</string>
@@ -24,7 +24,7 @@
   <string name="close">Schließen</string>
   <string name="default_folder_name">Notizen</string>
   <string name="dlg_desc_confirm_alarm_silent">Erinnerungen und Notizen werden im Lautlos-Modus, wenn abgeschaltet, stumm sein.</string>
-  <string name="dlg_title_confirm_alarm_silent">Willst du die Erinnerungen im Lautlos-Modus stumm schalten?</string>
+  <string name="dlg_title_confirm_alarm_silent">Wollen Sie die Erinnerungen im Lautlos-Modus stumm schalten?</string>
   <string name="enable_sync">Synchronisierung</string>
   <string name="enable_sync_desc">Notizen können mit deinem Xiaomi-Konto %1$s synchronisiert werden. Jetzt synchronisieren?</string>
   <string name="error_contact_not_exist">Der Kontakt ist nicht vorhanden</string>
@@ -33,7 +33,7 @@
   <string name="error_note_not_exist">Die Notiz ist nicht vorhanden</string>
   <string name="error_sdcard_export">Exportieren fehlgeschlagen. Bitte überprüfe die SD-Karte</string>
   <string name="error_sdcard_unmounted">SD-Karte beschäftigt oder nicht lesbar. Bitte versuche es erneut</string>
-  <string name="error_unsupport_content">Die Notiz enthält nicht unterstützte Inhalte, klicken um dein System zu aktualisieren</string>
+  <string name="error_unsupport_content">Die Notiz enthält nicht unterstützte Inhalte, klicken um Ihr System zu aktualisieren</string>
   <string name="error_widget_exist_for_send_to_desktop">Diese Notiz ist bereits auf dem Startbildschirm vorhanden</string>
   <string name="failed_sdcard_export">Exportieren fehlgeschlagen</string>
   <string name="file_name_txt_format">notiz_%s.txt</string>

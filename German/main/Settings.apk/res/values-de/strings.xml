@@ -1470,7 +1470,7 @@
     <string name="msg_update_error_code_no_newer_db">Sie haben bereits die neueste Version</string>
     <string name="msg_update_error_code_success">Update erfolgreich</string>
     <string name="msg_update_error_code_unknown_error">Unbekannter Fehler. Später erneut versuchen!</string>
-    <string name="msg_wlan_signal_found">Möchten sie das gefundene WLAN %s verwenden? Aktuelle Datenverbindungen werden getrennt.</string>
+    <string name="msg_wlan_signal_found">Möchten Sie das gefundene WLAN %s verwenden? Aktuelle Datenverbindungen werden getrennt.</string>
     <string name="multi_touch_points_category_title">Multi Touch Punkte</string>
     <string name="multi_touch_points_preference">Zum einschalten, Neustarten</string>
     <string name="musicfx_title">Musikeffekte</string>
@@ -1575,7 +1575,7 @@
     <string name="optimize_tips_ad_title">Werbung:</string>
     <string name="optimize_tips_apk_content">Pakete zum installieren von Apps auf ihrem Gerät. Sie werden nicht mehr gebraucht wenn Sie die Apps bereits installiert haben.</string>
     <string name="optimize_tips_apk_title">Pakete:</string>
-    <string name="optimize_tips_cache_content">Erstellt von Apps und Prozessen die sie nur vorübergehend benötigen (z.b. Vorschaubilder).</string>
+    <string name="optimize_tips_cache_content">Erstellt von Apps und Prozessen die Sie nur vorübergehend benötigen (z.b. Vorschaubilder).</string>
     <string name="optimize_tips_cache_title">Cache:</string>
     <string name="optimize_tips_residual_content">Dateien (z.b. Videos, Hintergründe, Musik, usw.) auf ihrer SD-Karte, von Apps die bereits entfernt wurden. Wenn Sie einige Dateien noch brauchen, empfehlen wir, dass Sie beim Bereinigen von Rest Dateien die Erweiterte Funktion nutzen.</string>
     <string name="optimize_tips_residual_title">Reste:</string>
@@ -2206,7 +2206,7 @@
     <string name="screen_color_temperature">Farbtemperatur</string>
     <string name="screen_color_temperature_and_saturation">Farbtemperatur &amp; Sättigung</string>
     <string name="screen_compatibility_label">Bildschirmkompatibilität</string>
-    <string name="screen_compatibility_text">Möglicherweise ist diese App nicht auf Ihren Bildschirm ausgelegt. Hier können Sie festlegen, wie sie an Ihren Bildschirm angepasst wird.</string>
+    <string name="screen_compatibility_text">Möglicherweise ist diese App nicht auf Ihren Bildschirm ausgelegt. Hier können Sie festlegen, wie diese an Ihren Bildschirm angepasst wird.</string>
     <string name="screen_key_long_press">Tasten lange drücken</string>
     <string name="screen_key_long_press_action">Optionen</string>
     <string name="screen_key_long_press_timeout">Verzögerung</string>
@@ -2516,7 +2516,7 @@
     <string name="toast_add_white_list_success">" zu Ausnahmen hinzugefügt"</string>
     <string name="toast_application_no_residual_on_sdcard">Das App hat keine gespeicherten Dateien auf der SD-Karte</string>
     <string name="toast_backup_cleanup_success">Daten gesichert und gelöscht</string>
-    <string name="toast_backup_is_running">Backup läuft. Warten Sie 1 oder 2 Minuten und versuchen sie es erneut.</string>
+    <string name="toast_backup_is_running">Backup läuft. Warten Sie 1 oder 2 Minuten und versuchen Sie es erneut.</string>
     <string name="toast_backup_uninstall_failed">Backup von %d Apps fehlgeschlagen. Warten Sie 1 oder 2 Minuten und versuchen sie es erneut.</string>
     <string name="toast_backup_uninstall_success">Sichern und entfernen abgeschlossen</string>
     <string name="toast_cleanup_success">Daten gelöscht</string>
@@ -3055,7 +3055,7 @@
     <string name="wifi_share_list_empty">Keine geteilten Netzwerke gefunden</string>
     <string name="wifi_share_login">WLAN teilen</string>
     <string name="wifi_share_login_summary">Wenn das WLAN öffentlich ist, können Sie es mit anderen MIUI Benutzern teilen.</string>
-    <string name="wifi_share_notification_summary">MIUI hat sie mit einem öffentlichen WLAN verbunden.</string>
+    <string name="wifi_share_notification_summary">MIUI hat Sie mit einem öffentlichen WLAN verbunden.</string>
     <string name="wifi_share_other_network">Andere Netzwerke</string>
     <string name="wifi_share_qrcode_finish">Fertig</string>
     <string name="wifi_share_qrcode_summary">QR Code mit der Kamera scannen.</string>
