@@ -297,7 +297,6 @@
     <string name="battery_stats_charging_label">Wird geladen...</string>
     <string name="battery_stats_duration">%1$s seit dem Ausstecken</string>
     <string name="battery_stats_gps_on_label">GPS aktiv</string>
-    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="battery_stats_on_battery">%1$s mit Akku</string>
     <string name="battery_stats_phone_signal_label">Mobilfunksignal</string>
     <string name="battery_stats_screen_on_label">Bildschirm an</string>
@@ -472,7 +471,6 @@
     <string name="brightness_auto_adjust_off">Die Bildschirmhelligkeit bleibt in jeder Umgebung unverändert</string>
     <string name="brightness_auto_adjust_on">Die Bildschirmhelligkeit wird je nach Umgebunglicht variieren</string>
     <string name="brightness_summary">Helligkeit des Bildschirms anpassen</string>
-    <string name="bssid_label">BSSID:</string>
     <string name="bt_hci_snoop_log">Bluetooth HCI Snoop Log einschalten</string>
     <string name="bt_hci_snoop_log_summary">Alle Bluetooth HCI Pakete in einer Datei erfassen</string>
     <string name="bt_trace_log">Bluetooth Trace Log einschalten</string>
@@ -715,7 +713,6 @@
     <string name="debug_debugging_category">Debugging</string>
     <string name="debug_drawing_category">Grafik</string>
     <string name="debug_input_category">Eingabe</string>
-    <string name="debug_intent_sender_label">Debug intent sender</string>
     <string name="debug_layout">Layoutgrenzen einblenden</string>
     <string name="debug_layout_summary">Clip-Begrenzungen, Ränder usw. anzeigen</string>
     <string name="debug_log">Fehlerbericht</string>
@@ -805,7 +802,6 @@
     <string name="dirac_mode_piston_youth">Xiaomi Piston-youth</string>
     <string name="dirac_switch_summary">Lautsprecher mit Dirac Klangverbesserung verwenden</string>
     <string name="dirac_switch_title">Dirac Klangverbesserung</string>
-    <string name="disableNetwork">disableNetwork</string>
     <string name="disable_adb_debug_summary">USB Debugging ausschalten</string>
     <string name="disable_anti_spam_summary">Nachrichtenfilter aus</string>
     <string name="disable_app_permission_summary">Rechtemonitor ist aus</string>
@@ -814,7 +810,6 @@
     <string name="disable_power_key_long_press_under_keyguard">Power Taste ausschalten</string>
     <string name="disable_text">Ausschalten</string>
     <string name="disabled">Ausgeschaltet</string>
-    <string name="disconnect">Trennen</string>
     <string name="display_font_size_label">Schriftgröße:</string>
     <string name="display_label">Bildschirm</string>
     <string name="display_order_text">Sortieren nach:</string>
@@ -1089,8 +1084,6 @@
     <string name="gadget_wifi">WLAN</string>
     <string name="game_controller_settings_category">Spielsteuerung</string>
     <string name="garbage_white_list_empty_content">Whitelist ist leer</string>
-    <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-    <string name="getConnectionInfo">getConnectionInfo</string>
     <string name="haptic_feedback_enable_title">Bei Berührung vibrieren</string>
     <string name="haptic_feedback_level">Vibration</string>
     <string name="hardkeyboard_category">Einstellungen für physische Tastatur</string>
@@ -1133,18 +1126,6 @@
     <string name="heavy_weight_stop_description">Diese App kann nicht sicher beendet werden. Beim Beenden könnten aktuelle Daten verloren gehen.</string>
     <string name="hello_world">Hello world!</string>
     <string name="help_label">Hilfe</string>
-    <string name="help_url_accounts" />
-    <string name="help_url_backup_reset" />
-    <string name="help_url_battery" />
-    <string name="help_url_bluetooth" />
-    <string name="help_url_choose_lockscreen" />
-    <string name="help_url_data_usage" />
-    <string name="help_url_more_networks" />
-    <string name="help_url_sound" />
-    <string name="help_url_tether" />
-    <string name="help_url_vpn" />
-    <string name="help_url_wifi" />
-    <string name="hidden_ssid_label">Hidden SSID:</string>
     <string name="history_details_title">Verlaufsdetails</string>
     <string name="home_key">Home Taste</string>
     <string name="ime_security_warning">Diese Eingabemethode kann den gesamten von Ihnen eingegebenen Text erfassen, einschließlich personenbezogener Daten wie Passwörter und Kreditkartennummern. Sie ist Teil der App \"%1$s\". Möchten Sie diese Eingabemethode verwenden?</string>
@@ -1199,7 +1180,6 @@
     <string name="internal_used_memory_hint">Benutzt: Berechne...</string>
     <string name="invalid_location">Installationspfad ungültig.</string>
     <string name="invalid_size_value">Paketgröße konnte nicht berechnet werden.</string>
-    <string name="ipaddr_label">IPaddr:</string>
     <string name="item_app_permission">App Rechte</string>
     <string name="item_garbage_size_1000m">1G</string>
     <string name="item_garbage_size_100m">100M</string>
@@ -1260,7 +1240,6 @@
     <string name="license_title">Lizenz</string>
     <string name="line_breaking_summary">Zeilenumbruch optimieren</string>
     <string name="line_breaking_title">Textoptimierung</string>
-    <string name="link_speed_label">Link Speed:</string>
     <string name="list_sub_view_item_backup_cleanup">Zuerst sichern</string>
     <string name="list_sub_view_item_backup_uninstall">Sichern &amp; entfernen</string>
     <string name="list_sub_view_item_clean">Löschen</string>
@@ -1357,7 +1336,6 @@
     <string name="log_count">(%d)</string>
     <string name="lte_ram_dump_off">LTE-RAM-Dump ausschalten</string>
     <string name="lte_ram_dump_on">LTE-RAM-Dump einschalten</string>
-    <string name="macaddr_label">MAC-Adresse:</string>
     <string name="main_running_process_description">Hauptprozess wird verwendet.</string>
     <string name="man_add_application">App zum Autostart hinzufügen</string>
     <string name="manage_device_admin">Geräteadministratoren</string>
@@ -1501,8 +1479,6 @@
     <string name="network_assistant">Datenverbrauch</string>
     <string name="network_detail">%s Netzwerkdetails</string>
     <string name="network_settings_title">Mobilfunknetze</string>
-    <string name="network_state_label">Netzwerk Status:</string>
-    <string name="networkid_label">Netzwerk ID:</string>
     <string name="networks">Netzbetreiberauswahl</string>
     <string name="new_backup_pw_prompt">Geben Sie hier ein neues Passwort für Voll-Backups ein.</string>
     <string name="new_bw_list_button">Kontakt hinzufügen</string>
@@ -2203,7 +2179,6 @@
     <string name="roaming_reenable_title">Daten-Roaming zulassen?</string>
     <string name="roaming_turn_it_on_button">Aktivieren</string>
     <string name="roaming_warning">Wenn Sie Daten-Roaming zulassen, können hohe Roaming-Gebühren anfallen!</string>
-    <string name="rssi_label">RSSI:</string>
     <string name="rubbish_cleaning">Bereinigung</string>
     <string name="running_processes_item_description_p_p">%1$d Prozesse und %2$d Dienste</string>
     <string name="running_processes_item_description_p_s">%1$d Prozesse und %2$d Dienst</string>
@@ -2219,7 +2194,6 @@
     <string name="safe_relative">Sicherheitrelevant</string>
     <string name="save_button">Speichern</string>
     <string name="scan_done">Suche abgeschlossen</string>
-    <string name="scan_list_label">Ergebnisse überprüfen:</string>
     <string name="scanning_prefix">Suche:%s</string>
     <string name="scanning_start_hints">Vorbereitung...</string>
     <string name="scanning_virus">Suche...</string>
@@ -2422,7 +2396,6 @@
     <string name="spellchecker_quick_settings">Einstellungen</string>
     <string name="spellchecker_security_warning">Diese Rechtschreibprüfung kann den gesamten von Ihnen eingegebenen Text erfassen, einschließlich personenbezogener Daten wie Passwörter und Kreditkartennummern. Sie ist Teil der App \"%1$s\". Möchten Sie die Rechtschreibprüfung verwenden?</string>
     <string name="spellcheckers_settings_title">Rechtschreibprüfung</string>
-    <string name="ssid_label">SSID:</string>
     <string name="start_checking_memory">Starte Speicherprüfung...</string>
     <string name="start_checking_protection">Starte Echtzeitschutzprüfung...</string>
     <string name="start_checking_trash">Prüfung App-Cache starten...</string>
@@ -2467,14 +2440,12 @@
     <string name="strict_mode">Strikter Modus aktiviert</string>
     <string name="strict_mode_summary">Bei längeren Aktionen im Hauptthread Bildschirm kurz einblenden</string>
     <string name="sum_carrier_select">Netzbetreiber auswählen</string>
-    <string name="summary_font_size">%1$s</string>
     <string name="summary_install_virus">Apps vor Installation auf Viren prüfen</string>
     <string name="summary_mms">Unerwünschte Nachrichten filtern (Verkäufe, Werbung, usw.)</string>
     <string name="summary_permission">Privatsphäre vor Drittanbieter-Apps schützen</string>
     <string name="summary_usb">Vermeiden, das sich Viren über den USB-Anschluiß verbreiten</string>
     <string name="summary_virus">%2$d Viren gefunden</string>
     <string name="summary_virus_update">Viren-Datenbank bei WLAN Verbindung,automatisch aktualisieren</string>
-    <string name="supplicant_state_label">Supplicant state:</string>
     <string name="sync_active">Sync aktiv</string>
     <string name="sync_automatically">App-Daten autom. synchronisieren</string>
     <string name="sync_calendar">Kalender</string>
@@ -2510,7 +2481,6 @@
     <string name="testing_phone_info">Telefoninformation</string>
     <string name="testing_sim_toolkit">SIM Toolkit</string>
     <string name="testing_usage_stats">Nutzungsstatistik</string>
-    <string name="testing_wifi_info">WLAN Information</string>
     <string name="tether_settings_title_all">Tethering &amp; Hotspot</string>
     <string name="tether_settings_title_bluetooth">Bluetooth-Tethering</string>
     <string name="tether_settings_title_usb">USB-Tethering</string>
@@ -2518,7 +2488,6 @@
     <string name="tether_settings_title_wifi">Mobiler Hotspot</string>
     <string name="tethering_help_button_text">Hilfe</string>
     <string name="time_picker_title">Uhrzeit</string>
-    <string name="time_zone_auto_stub">Zeitzone auswählen</string>
     <string name="timezone_settings">Zeitzone</string>
     <string name="title_app_update_no">%d Apps haben Updates</string>
     <string name="title_app_update_yes">Alle Apps aktuell</string>
@@ -2937,7 +2906,6 @@
     <string name="wifi_advanced_mac_address_title">MAC-Adresse</string>
     <string name="wifi_advanced_settings_label">IP-Einstellungen</string>
     <string name="wifi_advanced_titlebar">Erweiterte WLAN-Einstellungen</string>
-    <string name="wifi_api_test">WLAN API</string>
     <string name="wifi_auto_connect">Auto Verbinden</string>
     <string name="wifi_available_title">Verbinden mit WLAN</string>
     <string name="wifi_cancel">Abbrechen</string>
@@ -2954,9 +2922,7 @@
     <string name="wifi_disabled_network_failure">Schlechte Internet Verbindung</string>
     <string name="wifi_disabled_password_failure">Authentifizierungsproblem</string>
     <string name="wifi_dns1">DNS 1</string>
-    <string name="wifi_dns1_hint">8.8.8.8</string>
     <string name="wifi_dns2">DNS 2</string>
-    <string name="wifi_dns2_hint">8.8.4.4</string>
     <string name="wifi_eap_anonymous">Anonyme Identität</string>
     <string name="wifi_eap_ca_cert">CA-Zertifikat</string>
     <string name="wifi_eap_identity">Identität</string>
@@ -2973,10 +2939,8 @@
     <string name="wifi_failed_save_message">Netzwerk speichern fehlgeschlagen</string>
     <string name="wifi_forget">Entfernen</string>
     <string name="wifi_gateway">Gateway</string>
-    <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_in_airplane_mode">Im Flugmodus</string>
     <string name="wifi_ip_address">IP-Adresse</string>
-    <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_ip_settings">IP-Einstellungen</string>
     <string name="wifi_ip_settings_invalid_dns">Geben Sie eine gültige DNS-Adresse ein.</string>
     <string name="wifi_ip_settings_invalid_gateway">Geben Sie eine gültige Gateway-Adresse ein.</string>
@@ -2995,7 +2959,6 @@
     <string name="wifi_menu_wps_pin">WPS PIN-Eingabe</string>
     <string name="wifi_more">Mehr</string>
     <string name="wifi_network_prefix_length">Länge Netzwerkpräfix</string>
-    <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_not_in_range">Nicht in Reichweite</string>
     <string name="wifi_notify_open_networks">Netzwerkhinweis</string>
     <string name="wifi_notify_open_networks_summary">Benachrichtigen, wenn ein offenes Netzwerk verfügbar ist.</string>
@@ -3035,21 +2998,9 @@
     <string name="wifi_security">Sicherheit</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Keine</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="wifi_setting_frequency_band_error">Fehler beim Festlegen des Frequenzbereichs.</string>
     <string name="wifi_setting_frequency_band_summary">Frequenzbereich festlegen</string>
     <string name="wifi_setting_frequency_band_title">WLAN-Frequenz</string>
@@ -3125,12 +3076,6 @@
     <string name="wifi_speed">Geschwindigkeit</string>
     <string name="wifi_ssid">SSID</string>
     <string name="wifi_starting">WLAN wird eingeschaltet...</string>
-    <string name="wifi_state_disabled">Ausgeschaltet</string>
-    <string name="wifi_state_disabling">Ausschalten</string>
-    <string name="wifi_state_enabled">Eingeschaltet</string>
-    <string name="wifi_state_enabling">Einschalten</string>
-    <string name="wifi_state_label">WLAN Status:</string>
-    <string name="wifi_state_unknown">Unbekannt</string>
     <string name="wifi_status">Status</string>
     <string name="wifi_status_test">WLAN Status</string>
     <string name="wifi_stopping">WLAN ausschalten...</string>
@@ -3143,7 +3088,6 @@
     <string name="wifi_tether_setting_title">Basis Einstellungen</string>
     <string name="wifi_unchanged">(nicht geändert)</string>
     <string name="wifi_unspecified">(keine Angabe)</string>
-    <string name="wifi_update">Aktualisiere Statistik</string>
     <string name="wifi_wapi_as_cert">AS Zertifikat</string>
     <string name="wifi_wapi_cert_cancel_button">Abbrechen</string>
     <string name="wifi_wapi_cert_create_subdir">Ordner erstellen</string>
