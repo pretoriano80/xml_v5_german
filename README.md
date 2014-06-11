@@ -21,4 +21,6 @@ Informations(German)
 =================
 Infos wie man mithelfen kann und zum aktuellen Stand der Übersetzung stehen im Wiki.
 
+Derzeit vorhandene Fehler: http://translators.xiaomi.eu/XML_MIUIv5-German-de.html
+
 Für  weitere Infos bzw Fragen  PM an mich(bitti09) im xiaomi.eu Forum
