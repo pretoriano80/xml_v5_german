@@ -73,7 +73,7 @@
   <string name="bookmark_needs_url">Das Lesezeichen muss eine URL haben</string>
   <string name="bookmark_not_saved">"Lesezeichen konnte nicht gespeichert werden"</string>
   <string name="bookmark_page">Zuletzt angesehene Seite als Lesezeichen speichern</string>
-  <string name="bookmark_saved">Saved to bookmarks.Lesezeichen gespeichert</string>
+  <string name="bookmark_saved">In den Favoriten speichern. Lesezeichen gespeichert</string>
   <string name="bookmark_this_page">Diese Seite als Lesezeichen speichern</string>
   <string name="bookmark_this_page_to_readmodelist">Diese Seite zur Leseliste hinzufügen</string>
   <string name="bookmark_thumbnail_view">Thumbnails</string>

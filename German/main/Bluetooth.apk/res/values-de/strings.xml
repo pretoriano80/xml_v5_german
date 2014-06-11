@@ -70,10 +70,7 @@
   <string name="incoming_file_confirm_Notification_caption">Eingehende Datei annehmen?</string>
   <string name="incoming_file_confirm_Notification_title">Bluetooth: Eingehende Datei</string>
   <string name="incoming_file_confirm_cancel">Abbruch</string>
-  <string name="incoming_file_confirm_content">"\"%1$s\" möchte dir %2$s (%3$s) schicken.
-
-  
-  Die Datei annehmen?"</string>
+  <string name="incoming_file_confirm_content">"\"%1$s\" möchte dir %2$s (%3$s) schicken. Die Datei annehmen?"</string>
   <string name="incoming_file_confirm_ok">OK</string>
   <string name="incoming_file_confirm_timeout_content">Zeitüberschreitung bei der Dateiannahme von \"%1$s\"</string>
   <string name="incoming_file_confirm_timeout_ok">OK</string>

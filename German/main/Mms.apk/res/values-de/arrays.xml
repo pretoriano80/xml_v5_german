@@ -1,28 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Glücklich</item>
+        <item>Traurig</item>
+        <item>Zwinkern</item>
+        <item>Frech</item>
+        <item>Überrascht</item>
+        <item>Kuss</item>
+        <item>Schreien</item>
+        <item>Cool</item>
+        <item>Dollarzeichen</item>
+        <item>Fettnäpfchen</item>
+        <item>Peinlich berührt</item>
+        <item>Engel</item>
+        <item>Unentschlossen</item>
+        <item>Weinen</item>
+        <item>Versiegelte Lippen</item>
+        <item>Fröhlich</item>
+        <item>Verwirrt</item>
+        <item>Verliebt</item>
+        <item>Verärgert</item>
+        <item>Grinsen</item>
+        <item>Pokergesicht</item>
+    </string-array>
     <string-array name="prefEntries_ringtone_repeat">
-        <item>Einmal</item>
-        <item>Zweimal</item>
-        <item>Dreimal</item>
-        <item>Fünfmal</item>
-        <item>Zehnmal</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>5x</item>
+        <item>10x</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Name</item>
-        <item>Nickname</item>
+        <item>Alias</item>
         <item>Telefon</item>
-        <item>E-mail</item>
-        <item>Organization</item>
-        <item>IM</item>
-        <item>SIP Telefon</item>
+        <item>Email</item>
+        <item>Firma</item>
+        <item>Chat</item>
+        <item>VoIP</item>
         <item>Geburtstag</item>
         <item>Webseite</item>
-        <item>Addresse</item>
+        <item>Adresse</item>
         <item>Notiz</item>
     </string-array>
     <string-array name="entries_date_type">
-        <item>Zeit empfangen</item>
-        <item>Zeit gesendet</item>
+        <item>Empfangszeit</item>
+        <item>Sendezeit</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>Per Nachricht</item>
@@ -43,11 +89,11 @@
         <item>8 Sekunden</item>
         <item>9 Sekunden</item>
         <item>10 Sekunden</item>
-        <item>Other</item>
+        <item>Weitere</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Immer</item>
-        <item>Erst bei lautlos</item>
-        <item>Nie</item>
+        <item>Nur wenn Lautlos</item>
+        <item>Niemals</item>
     </string-array>
 </resources>

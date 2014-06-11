@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="record_scenes_entries">
-        <item>Für Musik Aufnahme</item>
-        <item>Für Stimmen Aufnahme</item>
+        <item>Musik</item>
+        <item>Sprache</item>
     </string-array>
 </resources>

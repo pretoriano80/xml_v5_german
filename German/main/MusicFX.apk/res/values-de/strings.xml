@@ -5,7 +5,7 @@
   <string name="ci_extreme">Effekt-Booster</string>
   <string name="eq_dialog_title">Equalizer</string>
   <string name="headset_plug">Bitte Kopfhörer anschließen, um diese Effekte zu nutzen</string>
-  <string name="main_toggle_effects_title">Audio-Effekte</string>
+  <string name="main_toggle_effects_title">Audio Effekte</string>
   <string name="no_effects">Effekte nicht verfügbar</string>
   <string name="picker_title">Effekt-Einstellungen</string>
   <string name="pr_dialog_title">Hall-Einstellungen</string>
