@@ -14,7 +14,6 @@
   <string name="abc_searchview_description_voice">Sprachsuche</string>
   <string name="abc_shareactionprovider_share_with">Teilen mit</string>
   <string name="abc_shareactionprovider_share_with_application">Mit %s teilen</string>
-  <string name="account_cache_provider">Konto Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">Sie verwenden diesen Benutzernamen bereits für das Konto \"%s\".</string>
   <string name="account_duplicate_dlg_title">Dupliziertes Konto</string>
   <string name="account_folder_list_summary_drafts">Entwürfe</string>
@@ -256,7 +255,6 @@
   <string name="collapse_recipient_details">Empfängerangaben schließen</string>
   <string name="colon">:</string>
   <string name="compose">Schreiben</string>
-  <string name="compose_help_context">Schreiben</string>
   <string name="confirm">Bestätigen</string>
   <string name="confirm_discard_text">Soll diese Nachricht verworfen werden?</string>
   <string name="confirm_response">Antwort wird gesendet…</string>
@@ -283,7 +281,6 @@
   <string name="contextmenu_send_mail">E-Mail senden</string>
   <string name="contextmenu_sharelink">Link teilen</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Verschoben nach %1$s</string>
   <string name="conversation_photo_welcome_text">Absender-Bild berühren um die Unterhaltung auszuwählen.</string>
   <string name="copy_email">E-Mail-Adresse kopieren</string>
@@ -335,7 +332,6 @@
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
   <string name="email_package_name">com.android.email</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_email_tip">Leere E-Mail kann nicht gesendet werden</string>
   <string name="empty_spam">Spam leeren</string>
   <string name="empty_spam_dialog_title">Spam leeren?</string>
@@ -369,7 +365,6 @@
   <string name="forward_attribution_no_headers">---------- Weitergeleitete Nachricht ----------</string>
   <string name="forward_download_failed_ticker">Mindestens ein Anhang wurde nicht weitergeleitet.</string>
   <string name="forward_download_failed_title">Anhang nicht weitergeleitet</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="from">Von</string>
   <string name="from_heading">"Von: "</string>
   <string name="general_preference_confirm_delete_label">Vor Löschen bestätigen</string>
@@ -421,14 +416,6 @@
   <string name="mailbox_name_display_starred">Markiert</string>
   <string name="mailbox_name_display_trash">Müll</string>
   <string name="mailbox_name_display_unread">Ungelesen</string>
-  <string name="mailbox_name_server_all_unread">Ungelesen</string>
-  <string name="mailbox_name_server_drafts">Entwürfe</string>
-  <string name="mailbox_name_server_inbox">Posteingang</string>
-  <string name="mailbox_name_server_junk">Junk</string>
-  <string name="mailbox_name_server_outbox">Postausgang</string>
-  <string name="mailbox_name_server_sent">Gesendet</string>
-  <string name="mailbox_name_server_starred">Markiert</string>
-  <string name="mailbox_name_server_trash">TraMüllsh</string>
   <string name="mailbox_settings_activity_title">Synchronisations-Optionen</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Synchronisations-Optionen (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Tag der E-Mail-Synchronisation</string>
@@ -496,7 +483,6 @@ CC: %4$s
   <string name="message_invite_title">Kalender-Einladung</string>
   <string name="message_saved">Nachricht als Entwurf gespeichert.</string>
   <string name="message_view_attachment_background_load">Ein oder mehrere Anhänge in Ihrer weitergeleiteten Nachricht werden zuerst zum Versenden heruntergeladen.</string>
-  <string name="mock_content_provider">Mock Content Provider</string>
   <string name="more_atts_total">%1$d Anhänge insgesamt</string>
   <string name="more_info_attachment">Info</string>
   <string name="more_string">+%1$s</string>
@@ -621,14 +607,9 @@ CC: %4$s
   <string name="reply">Antworten</string>
   <string name="reply_all">Allen antworten</string>
   <string name="reply_attribution" formatted="false">Auf %s, %s schrieb:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="replyto_heading">"Antwort an: "</string>
   <string name="report">Melden</string>
   <string name="report_phishing">Phishing melden</string>
-  <string name="report_rendering_improvement">Sieht gut aus</string>
-  <string name="report_rendering_improvement_desc">Diese Nachricht sieht gut aus.</string>
-  <string name="report_rendering_problem">Sieht schlecht aus</string>
-  <string name="report_rendering_problem_desc">Diese Nachricht sieht schlecht aus.</string>
   <string name="report_spam">Spam melden</string>
   <string name="require_manual_sync_message">Hintergrund-Synchronisation ist für dieses Konto im Roaming deaktiviert.</string>
   <string name="respond_inline">Respond inline</string>
@@ -693,7 +674,7 @@ CC: %4$s
   <string name="system_account_create_failed">"Konto-Erstellung fehlgeschlagen. Erneut versuchen."</string>
   <string name="system_folders_sent_dlg">"'Gesendete Objekte'-Ordner auswählen"</string>
   <string name="system_folders_sent_summary">"Wählen Sie Ihren 'Gesendete Objekte'-Ordner"</string>
-  <string name="system_folders_sent_title">'Gesendete Objekte'-Ordner</string>
+  <string name="system_folders_sent_title">"'Gesendete Objekte'-Ordner"</string>
   <string name="system_folders_title">System Ordner</string>
   <string name="system_folders_trash_dlg">"Wählen Sie Ihren Papierkorb-Ordner des Servers"</string>
   <string name="system_folders_trash_summary">"Wählen Sie Ihren Papierkorb-Ordner des Servers"</string>
@@ -733,11 +714,9 @@ CC: %4$s
   <string name="wait_for_sync_body">Ihre E-Mails werden in kürze erscheinen.</string>
   <string name="wait_for_sync_body_2">Der Exchange Server wird Sie innerhalb von 1-30 Sekunden auffordern. Bitte bestätigen Sie die Sicherheits-Einstellungen und aktivieren Sie diese. Beachten Sie System-Hinweise.</string>
   <string name="wait_for_sync_title">Warten auf Synchronisation</string>
-  <string name="wait_help_context">Warten</string>
   <string name="widget_all_mail">Alle E-Mails</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Andere</string>
-  <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wrong_password">Falsches Passwort!</string>
   <string name="yes">Ja</string>
   <string name="zip_viewer_no_file">Keine Dateien!</string>
