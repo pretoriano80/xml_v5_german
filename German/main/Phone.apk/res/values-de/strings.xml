@@ -14,7 +14,6 @@
     <string name="administrative_disable">Verwaltung deaktiviert</string>
     <string name="administrative_enable">Verwaltung aktiviert</string>
     <string name="advanced_settings">Erweiterte Einstellungen</string>
-    <string name="advanced_settings_container">advanced settings container</string>
     <string name="advanced_settings_hide">▽ Alle Verstecken</string>
     <string name="advanced_settings_show">▷ Alle Zeigen</string>
     <string name="advertisements_disable">Werbung aus</string>
@@ -50,7 +49,6 @@
     <string name="audio_mode_earpiece">Kopfhörer</string>
     <string name="audio_mode_speaker">Lautsprecher</string>
     <string name="audio_mode_wired_headset">Headset</string>
-    <string name="auth_username">AuthUserName</string>
     <string name="auth_username_summary">Benutzername zur Authentifizierung</string>
     <string name="auth_username_title">Benutzername</string>
     <string name="auto_answer_delay_entries_delay_10s_miui">10 Sek</string>
@@ -261,9 +259,7 @@
     <string name="default_contacts_countrycode_hint_miui">Landesvorwahl eingeben</string>
     <string name="default_contacts_countrycode_miui">Standard Landesvorwahl</string>
     <string name="default_contacts_countrycode_sum_miui">Standard Landesvorwahl ihrer Kontakte: %s</string>
-    <string name="default_port">5060</string>
     <string name="default_preference_summary">&lt;Nicht festgelegt></string>
-    <string name="default_transport">UDP</string>
     <string name="delete_all_sim_contacts_miui">Alle SIM Kontakte löschen</string>
     <string name="delete_fdn_contact">Zugelassene Rufnummer gelöscht</string>
     <string name="delete_selected_sim_entry_miui">Markierte Kontakte löschen</string>
@@ -314,10 +310,8 @@
     <string name="disable_pin_ok">SIM-PIN aus</string>
     <string name="disable_sim_pin">SIM-PIN ausschalten</string>
     <string name="disable_sim_pin_miui">SIM-PIN ausschalten</string>
-    <string name="display_name">DisplayName</string>
     <string name="display_name_summary">&lt;Wie Benutzername></string>
     <string name="display_name_title">Anzeige Name</string>
-    <string name="domain_address">SipDomain</string>
     <string name="domain_address_title">Server</string>
     <string name="doneButton">Fertig</string>
     <string name="dtmf_tone_enable_title">Wähltastentöne</string>
@@ -650,7 +644,6 @@
     <string name="ota_unsuccessful">"Ihr Telefon wurde nicht aktiviert. Suchen Sie einen Bereich auf, in dem Sie besseren Empfang haben, zum Beispiel in der Nähe eines Fensters oder unter freiem Himmel. Versuchen Sie es erneut oder rufen Sie den Kundenservice an."</string>
     <string name="other_settings">Sonstige Anruf Einstellungen</string>
     <string name="other_settings_miui">Sonstige</string>
-    <string name="password">Password</string>
     <string name="password_title">Passwort</string>
     <string name="pause_prompt_no">Nein</string>
     <string name="pause_prompt_str">"Töne werden gesendet."</string>
@@ -681,7 +674,6 @@
     <string name="pin_progress_set_fdn_lock_miui">FDN Sperrstatus wird gesetzt...</string>
     <string name="pin_progress_set_icc_lock_miui">icc Sperrstatus wird gesetzt...</string>
     <string name="pin_progress_unlock_icc_miui">SIM-Karte wird entsperrt...</string>
-    <string name="port">Port</string>
     <string name="port_title">Port Nummer</string>
     <string name="pref_custom_location_summary_miui">Vorwahlen und weiter Standorteinstellungen verwalten</string>
     <string name="pref_custom_location_title_miui">Mein Standort</string>
@@ -713,7 +705,6 @@
     <string name="primary_account_summary_with">Primäres Konto. %s</string>
     <string name="private_num">Private Nummer</string>
     <string name="progress_dialog_exiting_ecm">Notfallrückrufmodus wird beendet.</string>
-    <string name="proxy_address">ProxyAddress</string>
     <string name="proxy_address_title">Ausgehende Proxy Addresse</string>
     <string name="pstn_phone">Mobilfunk Anruf</string>
     <string name="puk2_requested">Passwort ist falsch. SIM-Karte gesperrt! Bitte PUK2 eingeben.</string>
@@ -799,11 +790,9 @@
     <string name="selectContact">Kontakt auswählen</string>
     <string name="select_automatically">Automatisch auswählen</string>
     <string name="send_button">Senden</string>
-    <string name="send_keepalive">SendKeepAlive</string>
     <string name="send_keepalive_title">Sende Keep-alive</string>
     <string name="separate_from_conference_miui">Einzelgespräch</string>
     <string name="set_preferred_network_type_when_data_enabled_miui">Bevorzugter Netzwerktyp ist nur verfügbar wenn die Datenverbindung ausgeschaltet ist.</string>
-    <string name="set_primary">SetPrimary</string>
     <string name="set_primary_summary">Für ausgehende Anrufe</string>
     <string name="set_primary_title">Als primäres Konto</string>
     <string name="set_smsc_address_error_miui">Nummer konnte nicht geändert werden.</string>
@@ -834,10 +823,7 @@
     <string name="sip_accounts">VOIP(SIP) Konten</string>
     <string name="sip_accounts_title">Konten</string>
     <string name="sip_add_account_tip_text">Um VOIP Anrufe zu tätigen bitte SIP Konto hinzufügen</string>
-    <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-    <string name="sip_always">SIP_ALWAYS</string>
     <string name="sip_always_send_keepalive">Immer senden</string>
-    <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
     <string name="sip_call_options_entry_1">Für alle Anrufe wenn Datenverbindung verfügbar</string>
     <string name="sip_call_options_entry_2">Nur für VOIP Anrufe</string>
     <string name="sip_call_options_entry_3">Nachfragen</string>
@@ -915,7 +901,6 @@
     <string name="throttle_status_subtext">"%1$s (%2$d٪) von %3$s Zeitraum maximal Nächster Zeitraum startet in %4$d Tagen (%5$s)"</string>
     <string name="throttle_time_frame">Zeitraum des Datenverbrauchs</string>
     <string name="throttle_time_frame_subtext">"%1$d٪ des Zyklus abgelaufen Nächste beginnt in %2$d Tagen (%3$s)"</string>
-    <string name="transport">Protocol</string>
     <string name="transport_title">Transport Typ</string>
     <string name="tty_mode_entries_full_miui">TTY Voll</string>
     <string name="tty_mode_entries_hco_miui">TTY HCO</string>
@@ -939,7 +924,6 @@
     <string name="updating_fdn_contact">FDN wird aktualisiert...</string>
     <string name="updating_settings">Einstellungen werden aktualisiert...</string>
     <string name="updating_title">Anruf Einstellungen</string>
-    <string name="username">UserName</string>
     <string name="username_title">Benutzername</string>
     <string name="ussdRunning">USSD-Code wird ausgeführt...</string>
     <string name="vibrate_on_ring_title">Bei Anruf vibrieren</string>
