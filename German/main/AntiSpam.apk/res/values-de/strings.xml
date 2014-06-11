@@ -108,7 +108,7 @@
     <string name="info_unantispam_sms">Nachrichten erlauben</string>
     <string name="label_callwait">Anruf wartet</string>
     <string name="log_count">(%d)</string>
-    <string name="marked_by_others">"%d Benutzer markierten sie als "</string>
+    <string name="marked_by_others">"%d Benutzer markierten Sie als "</string>
     <string name="marked_by_user">"Sie markierten sie als "</string>
     <string name="menu_add">Hinzufügen</string>
     <string name="menu_add_into_contact">Zu bestehendem Kontakt hinzufügen</string>
@@ -157,7 +157,7 @@
     <string name="st_antispam_mode_blacklist">Blockierte Nummern</string>
     <string name="st_antispam_mode_blacklist_state">1111210</string>
     <string name="st_antispam_mode_blacklist_sum">Blockiert Nachrichten und Anrufe von Nummern aus der Blockliste</string>
-    <string name="st_antispam_mode_customize_sum">Erstellen sie eigene Regeln</string>
+    <string name="st_antispam_mode_customize_sum">Erstellen Sie eigene Regeln</string>
     <string name="st_antispam_mode_denyownself_sum">Eigene Regeln</string>
     <string name="st_antispam_mode_only_all_deny">Alles blockieren</string>
     <string name="st_antispam_mode_only_all_deny_state">1000000</string>

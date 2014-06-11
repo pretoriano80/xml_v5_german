@@ -8,7 +8,7 @@
     <string name="balance_inquiry_default_sp_name">Anbieter</string>
     <string name="balance_inquiry_send_sms_fail_hint">Senden der SMS fehlgeschlagen. Prüfen Sie Ihren SIM-Karten Status.</string>
     <string name="balance_inquiry_send_sms_hint">Für die Guthabenabfrage wir eine kostenlose SMS an den Anbieter gesendet</string>
-    <string name="balance_inquiry_send_sms_summmary">Prüfen sie ihr Guthaben</string>
+    <string name="balance_inquiry_send_sms_summmary">Prüfen Sie ihr Guthaben</string>
     <string name="balance_inquiry_title">Guthabenabfrage</string>
     <string name="call">Anruf</string>
     <string name="callrecordview_item_newcontact">Neuer Kontakt</string>

@@ -2,7 +2,7 @@
 <resources>
   <string name="ErrorTooManyRequests">Es werden zu viele Anfragen bearbeitet. Bitte versuche es später erneut.</string>
   <string name="ack_record">ACK-Aufzeichnung</string>
-  <string name="airplane_error_msg">"Du kannst im Flugzeug-Modus kein Bluetooth benutzen."</string>
+  <string name="airplane_error_msg">"Sie können im Flugzeug-Modus kein Bluetooth benutzen."</string>
   <string name="airplane_error_title">Flugzeug-Modus</string>
   <string name="app_name">Bluetooth</string>
   <string name="app_name_bpp">Bluetooth-BPP</string>
