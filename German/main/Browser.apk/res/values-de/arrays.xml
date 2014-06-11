@@ -107,21 +107,6 @@
         <item>Blau</item>
         <item>Dunkel</item>
     </string-array>
-    <string-array name="google_in_list">
-        <item>search_google</item>
-        <item>ic_search_engine_google</item>
-        <item>google</item>
-    </string-array>
-    <string-array name="yahoo_in_list">
-        <item>search_yahoo</item>
-        <item>ic_search_engine_yahoo</item>
-        <item>yahoo</item>
-    </string-array>
-    <string-array name="bing_in_list">
-        <item>search_bing</item>
-        <item>ic_search_engine_bing</item>
-        <item>bing</item>
-    </string-array>
     <string-array name="pref_ua_choices">
         <item>Android</item>
         <item>Desktop</item>
