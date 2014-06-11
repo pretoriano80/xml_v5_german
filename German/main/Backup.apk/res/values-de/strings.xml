@@ -53,8 +53,7 @@
   <string name="cancel_backup">Sicherung abbrechen</string>
   <string name="cancel_restore">Wiederherstellung abbrechen</string>
   <string name="cloud_app_backup_cancel">Sicherung abbrechen</string>
-  <string name="cloud_app_backup_cancel_prompt_message">"Sicherung unvollständig, OK drücken 
-um Sicherung abzubrechen"</string>
+  <string name="cloud_app_backup_cancel_prompt_message">"Sicherung unvollständig, OK drücken um Sicherung abzubrechen"</string>
   <string name="cloud_app_backup_cancel_prompt_title">Sicherung abbrechen</string>
   <string name="cloud_app_backup_date">"Gesichert am "</string>
   <string name="cloud_app_backup_pending">Ausstehend...</string>
@@ -86,8 +85,7 @@ um Sicherung abzubrechen"</string>
   <string name="cloud_app_no_wifi_connect">Keine WLAN Verbindung verfügbar</string>
   <string name="cloud_app_other_devices">Andere Geräte</string>
   <string name="cloud_app_remove_cancel">Löschen abbrechen</string>
-  <string name="cloud_app_remove_cancel_prompt_message">"Lösche unvollständiges Sicherung, OK drücken
-um Löschen abzubrechen"</string>
+  <string name="cloud_app_remove_cancel_prompt_message">"Lösche unvollständiges Sicherung, OK drücken um Löschen abzubrechen"</string>
   <string name="cloud_app_remove_cancel_prompt_title">Löschen stoppen</string>
   <string name="cloud_app_remove_error">Löschen fehlgeschlagen!</string>
   <string name="cloud_app_remove_pending">Warten auf Löschen...</string>
@@ -95,9 +93,8 @@ um Löschen abzubrechen"</string>
   <string name="cloud_app_remove_prompt">%1$s der Daten werden gelöscht. Möchten Sie fortfahren?</string>
   <string name="cloud_app_restore_action_bar_title">%1$s sind gesichert</string>
   <string name="cloud_app_restore_app_and_data">Apps und Benutzerdaten wiederherstellen</string>
-  <string name="cloud_app_restore_cancel">Wiederherstellung abbrechen/string>
-  <string name="cloud_app_restore_cancel_prompt_message">"Wiederherstellung unvollständig, OK drücken
-um Wiederherstellung abzubrechen"</string>
+  <string name="cloud_app_restore_cancel">Wiederherstellung abbrechen</string>
+  <string name="cloud_app_restore_cancel_prompt_message">"Wiederherstellung unvollständig, OK drücken um Wiederherstellung abzubrechen"</string>
   <string name="cloud_app_restore_cancel_prompt_title">Wiederherstellung abbrechen</string>
   <string name="cloud_app_restore_data">Zuvor installierte Apps wiederherstellen</string>
   <string name="cloud_app_restore_data_title">Benutzerdaten wiederherstellen</string>

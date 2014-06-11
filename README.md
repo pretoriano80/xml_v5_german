@@ -1,22 +1,8 @@
 MIUIAndroid_XML_v5
 ==================
 
-New Start of the german MIUItranslation for xiaomi.eu
+The German MIUI translation for xiaomi.eu Roms
 
-Stand 06.06.14:
-Komplett übersetzt:
-
-device/aries
-extras/*.*
-main/Antispam.apk
-main/Backup.apk
-
-Wer mithelfen will:
-
-1. Dieses Repo forken
-2. Übersetzen
-3. Wenn möglich pro übersetzte apk einen pull request erstellen
-
-Danke
+Infos wie man mithelfen kann und zum aktuellen Stand der Übersetzung stehen im Wiki.
 
 Für  weitere Infos bzw Fragen  PM an mich(bitti09) im xiaomi.eu Forum
