@@ -3077,7 +3077,6 @@
     <string name="wifi_ssid">SSID</string>
     <string name="wifi_starting">WLAN wird eingeschaltet...</string>
     <string name="wifi_status">Status</string>
-    <string name="wifi_status_test">WLAN Status</string>
     <string name="wifi_stopping">WLAN ausschalten...</string>
     <string name="wifi_tether_checkbox_text">Mobiler WLAN-Hotspot</string>
     <string name="wifi_tether_configure_ap_text">WLAN-Hotspot einrichten</string>
