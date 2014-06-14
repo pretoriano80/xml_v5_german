@@ -72,7 +72,7 @@
   <string name="faq_comp_text">Für Geräte mit MIUI v5 und Xiaomi Telefone. Die aktuelle Version der MiKey Anwendung steht unter folgender Adresse zum Download bereit &lt;a href="http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/"&gt;xiaomi.eu&lt;/a&gt;</string>
   <string name="faq_comp_title">Welche Geräte sind kompatibel?</string>
   <string name="faq_focus_text">Der Blitz vergrößert die Aufnahmezeit eines Bildes, jedoch ist dieses schärfer. Sie können den Blitz auch auschalten, das Bild wird verschwommener sein.</string>
-  <string name="faq_focus_title">Langsame Aufnahem des Bildes?</string>
+  <string name="faq_focus_title">Langsame Aufnahme des Bildes?</string>
   <string name="faq_misreq_text">"Falls die Bedienung der Musik auf dem Sperrbildschirm nicht reagiert, müssen Sie die Musik-App schließen, diese aus dem RAM entfernen, den MiKey erneut anschließen und "MiKey" neu starten. Wir kennen diesen Fehler und arbeiten an einer Lösung!"</string>
   <string name="faq_misreq_title">Wie kann man Probleme lösen?</string>
   <string name="faq_plug_text">Diese Methode den MiKey einzuführen wird potentiellen Problemen vorbeugen. Das Drücken des Knopfes beim einstecken des MiKey vermeiden.</string>
