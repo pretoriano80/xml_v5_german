@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="local_backup_section_title">Local backups</string>
-    <string name="bluetooth_device_address">Device address:</string>
+    <string name="local_backup_section_title">Lokal Backups</string>
+    <string name="bluetooth_device_address">Geräteadresse:</string>
     <string name="Settings_title_anti_spam">Antispam Einstellungen</string>
     <string name="Settings_title_anti_virus">Antivirus Einstellungen</string>
     <string name="Settings_title_garbage_cleanup">Bereinigungs Einstellungen</string>
