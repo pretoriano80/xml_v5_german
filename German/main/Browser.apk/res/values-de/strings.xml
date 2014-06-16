@@ -1,5 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="webapp_settings_title">Einstellungen</string>
+  <string name="webapp_webapp_favortes_title">Meine Favoriten</string>
+  <string name="webapp_dialog_title">App zum Desktop hinzufügen</string>
+  <string name="webapp_menu_already_addtodesk">Zum Desktop hinzugefügt</string>
+  <string name="webapp_menu_exit">Beenden</string>
+  <string name="webapp_menu_favorites">Meine Favoriten</string>
+  <string name="webapp_menu_nightmode">Nachtmodus</string>
+  <string name="webapp_menu_settings">Einstellungen</string>
+  <string name="webapp_menu_share">Teilen</string>
+  <string name="webapp_add_to_desktop">Zum Desktop hinzufügen</string>
+  <string name="webapp_add_to_favorite_toast">Hinzugefügt zur Favoritenliste</string>
+  <string name="cloud_up_to_loading_tips">Bereit zum syncen</string>
+  <string name="sub_sync_item_browser_title_webapp">Sync webapp</string>
+  <string name="sub_sync_item_browser_title_webapp_summary">Sync hinzugefügte Webapps und meine Favoriten</string>
+  <string name="pref_webapp_settings_savewidth">Unter 2G/3G Bilder nicht laden</string>
+  <string name="pref_webapp_settings_hidebottombar">Obere Leiste immer ausblenden</string>
+  <string name="pref_webapp_settings_fontsize">Textgröße</string>
+  <string name="up_to_loading_tips">Release to refresh</string>
+  <string name="cloud_time_tips">Zuletzt gesynct</string>
+  <string name="cloud_loading_tips">Zum syncen, runterziehen</string>
+  <string name="cloud_no_new_data_toast">Keine neuen Daten. Bitte versuchen Sie es später erneut.</string>
   <string name="MIUI_startpage">MIUI-Home</string>
   <string name="accessibility_button_addbookmark">Seite als Lesezeichen speichern</string>
   <string name="accessibility_button_back">Zurück</string>
@@ -586,7 +607,6 @@
   <string name="username">Name</string>
   <string name="view_certificate">Zertifikat ansehen</string>
   <string name="warning">Warnung</string>
-  <string name="webapp_add_to_desktop">Zum Home-Screen hinzufügen</string>
   <string name="webapp_addtodeskpop_append">App zum Home-Screen hinzugefügt</string>
   <string name="webapp_app_name">MiMarket web store</string>
   <string name="webapp_bottom_bar_addtodesk">Zum Home-Screen hinzufügen</string>
@@ -595,7 +615,6 @@
   <string name="webapp_bottom_bar_hidebar">Untere Leiste ausblenden</string>
   <string name="webapp_bottom_bar_openbrowser">Im Browser öffnen</string>
   <string name="webapp_bottom_bar_showbar">Untere Leiste einblenden</string>
-  <string name="webapp_dialog_title">App zum Home-Screen hinzufügen</string>
   <string name="webapp_splashview_loading">Wird geladen...</string>
   <string name="webapp_web_forward">Vor</string>
   <string name="webapp_web_goback">Zurück</string>
