@@ -10,8 +10,6 @@ Credits
 
 * **Squizzy** - 2nd Leader of  the German translation
 
-* **thorzhammer** - Helps with the translation^^
-
 External Links
 =================
 * **MIUIAndroid** (http://xiaomi.eu)
