@@ -151,6 +151,6 @@
   <string name="turn_off_speaker_phone">Lautsprecher ausschalten</string>
   <string name="turn_on_fm">FM einschalten</string>
   <string name="turn_on_speaker_phone">Lautsprecher einschalten</string>
-  <string name="type_rd"/> <!-- Fehlt hier kein </string> ?-->
+  <string name="type_rd"/>
   <string name="view_stations_list">Senderliste anzeigen</string>
 </resources>
